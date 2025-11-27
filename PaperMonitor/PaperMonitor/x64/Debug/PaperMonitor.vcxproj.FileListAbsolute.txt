@@ -1,0 +1,4 @@
+C:\Users\eddyi\Documents\Projects\Paper Monitor\Paper-Monitor\PaperMonitor\x64\Debug\LibreHardwareMonitorLib.dll
+C:\Users\eddyi\Documents\Projects\Paper Monitor\Paper-Monitor\PaperMonitor\x64\Debug\LibreHardwareMonitorLib.xml
+C:\Users\eddyi\Documents\Projects\Paper Monitor\Paper-Monitor\PaperMonitor\PaperMonitor\x64\Debug\PaperMonitor.vcxproj.AssemblyReference.cache
+C:\Users\eddyi\Documents\Projects\Paper Monitor\Paper-Monitor\PaperMonitor\PaperMonitor\x64\Debug\PaperMon.AC30F986.Up2Date

@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.3.0.13
+  Reading Qt configuration (C:/Qt/6.7.0/msvc2019_64/bin/qmake)
+   Qt: 6.7.0
+  GPU.cpp
+  CPU.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PaperMonitor.vcxproj -> C:\Users\eddyi\Documents\Projects\Paper Monitor\Paper-Monitor\PaperMonitor\x64\Debug\PaperMonitor.exe
